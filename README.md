@@ -8,12 +8,12 @@
 <h3> Sumário </h3>
 
 <ul>
-    <li> <a href='escopo'> Escopo. </a></li>
-    <li> <a href='introducao'> Introdução. </a> </li> 
+    <li> <a href='#escopo'> Escopo. </a></li>
+    <li> <a href='#introducao'> Introdução. </a> </li> 
     <li> Desenvolvimento. </li>
     <ul>
         <li> Criação do Template no Notion. </li>
-        <li> Fluxogramas do processo. </li>
+        <li> Fluxogramas do sprocesso. </li>
         <li> Automação no Notion via AWS Lambda. </li>
     </ul>
     <li> Existem ferramentas prontas no Mercado? </li>
