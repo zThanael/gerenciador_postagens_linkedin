@@ -2,7 +2,7 @@
 
 <p> Este é um repositório para mostrar um pouco da forma como eu gerencio o meu processo de criação de conteúdo para o LinkedIn </p>
 
-<blockquote> Link para o Template: <a href='#'> Obter Template </a> </blockquote>
+<blockquote> Link para o Template: <a href='#'> Obter Template  - Ainda colocarei o Link </a> </blockquote>
 <hr>
 
 <h3> Sumário </h3>
@@ -10,11 +10,11 @@
 <ul>
     <li> <a href='#escopo'> Escopo. </a></li>
     <li> <a href='#introducao'> Introdução. </a> </li> 
-    <li> Desenvolvimento. </li>
+    <li> <a href='#desenvolvimento'> Desenvolvimento. </a> </li>
     <ul>
-        <li> Criação do Template no Notion. </li>
-        <li> Fluxogramas do sprocesso. </li>
+        <li> <b> Criação do Template no Notion.  </b> </li>
         <li> Automação no Notion via AWS Lambda. </li>
+        <li> Extração dos dados do Notion via API. </li>
     </ul>
     <li> Existem ferramentas prontas no Mercado? </li>
     <li> Conclusão. </li>
@@ -49,6 +49,12 @@ Portanto, neste repositório vou mostrar como eu gerencio hoje o meu "processo" 
 </p>
 <br>
 
-<blockquote> Momento Propaganda: Acompanhe minha <a href='https://thanael.substack.com/'> Newsletter sobre Nômade Digital </a></p>
+<blockquote> Momento Propaganda: Acompanhe minha <a href='https://thanael.substack.com/'> Newsletter sobre Nômade Digital </a></p> </blockquote> 
 
 <hr>
+
+<h2 id='desenvolvimento'> Desenvolvimento </h2>
+
+<p> Esta seção de desenvolvimento abordará as principais partes referente ao meu processo de criação de conteúdo, abaixo colocarei um fluxograma que engloba todo este processo.  </p>
+
+<img src='/fluxograma.jpg'> 
