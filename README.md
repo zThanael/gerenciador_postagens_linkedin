@@ -26,11 +26,11 @@
 <h2 id = 'escopo'> Escopo </h2>
 
 <p> Faz 1 ano que comecei a produzir conteúdo no linkedin com o objetivo de gerar novas oportunidades e me manter por dentro do mercado. </p>
-<p> Durante esse 1 ano postado quase diariamente, transformei o ato de postar no linkedIn em um processo otimizado e gerenciavel que me permite otimizar meu tempo com a criação e acompanhamento das postagens. </p>
+<p> Durante esse 1 ano postando quase diariamente, transformei o ato de postar no linkedIn em um processo otimizado e gerenciavel que me permite otimizar meu tempo com a criação e acompanhamento das postagens. </p>
 <p> Neste repositório vou explicar sobre o meu processo de criação de postagens no LinkedIn e também <b> liberar um template do ambiente que utilizo. </b> </p>
 <p> Nesse 1 ano atingi <b>+10.000 seguidores</b> e <b>+5 M de impressões</b>, além de entrevistas e muitos aprendizados. </p>
 
-<blockquote> Link para o Template: <a href='#'> Obter Template </a> </blockquote>
+<blockquote> Link para o Template: <a href='https://furtive-shoulder-1ca.notion.site/TEMPLATE-Gerenciando-Postagens-no-LinkedIn-Thanael-1a30b5207c55800ab86cdcd0b3f96725?pvs=73'> Obter Template </a> </blockquote>
 
 <hr>
 
@@ -58,3 +58,19 @@ Portanto, neste repositório vou mostrar como eu gerencio hoje o meu "processo" 
 <p> Esta seção de desenvolvimento abordará as principais partes referente ao meu processo de criação de conteúdo, abaixo colocarei um fluxograma que engloba todo este processo.  </p>
 
 <img src='/fluxograma.jpg'> 
+
+<h2 id='template'> Template no Notion </h2>
+
+<p> Para de fato gerenciar suas postagens é importante você ter uma visão geral do que já postou e do que está agendado para ser postado, isso vai te ajudar a acompanhar as postagens, você até pode usar a interface do LinkedIn mas eu particularmente não gosto. </p>
+<p> 
+Eu gosto de ferramentas como Notion e Trello, então eu criei uma forma de acompanhar as postagens que faço no linkedin através do Notion, é uma forma bem simples e fácil de acompanhar. 
+</p>
+<p> 
+Basicamente consiste em um quadro com duas visualizações, a de calendário e a de quadro Kanban, e nele cada card consiste em uma postagem com as respectivas informações como texto, data e tag. 
+</p>
+
+<blockquote> Link para o Template: <a href='https://furtive-shoulder-1ca.notion.site/TEMPLATE-Gerenciando-Postagens-no-LinkedIn-Thanael-1a30b5207c55800ab86cdcd0b3f96725?pvs=73'> Obter Template </a> </blockquote>
+
+<img src='/notion_exemplo.jpg'> 
+
+</hr>
